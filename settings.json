@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "GhostRandi",
+    "username": "Bot",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "My name is GhostRandi",
+        "My name is Bot",
         "This is ONEBLOCK 1.21.11",
         "TheRealAbhirup is the GOAT"
       ]
