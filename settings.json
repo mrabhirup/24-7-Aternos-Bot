@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bot22",
+    "username": "Diddy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "oneeeblockkksmp.aternos.me",
+    "ip": "ApexSmp_S1.aternos.me",
     "port": 61305,
     "version": "1.21.11",
     "try-creative": false
